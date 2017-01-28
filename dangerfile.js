@@ -1,4 +1,4 @@
-const { danger, fail } = require('danger');
+const { danger, fail, warn } = require('danger');
 const fs = require('fs');
 
 // Make sure there are changelog entries
