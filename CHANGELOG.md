@@ -1,9 +1,13 @@
 ## master
 
-## v.1.0.1
+## 1.0.2
+
+* Add screenshot to README
+
+## 1.0.1
 
 * Fix dangerfile
 
-## example 1.0.0
+## 1.0.0
 
 * Init project + add danger file
