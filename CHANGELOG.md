@@ -1,5 +1,9 @@
 ## master
 
+## 1.0.3
+
+* Turn off travis email notifications
+
 ## 1.0.2
 
 * Add screenshot to README
